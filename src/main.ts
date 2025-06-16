@@ -1,4 +1,4 @@
-import puppeteer from "npm:puppeteer";
+import puppeteer from "puppeteer";
 
 export function add(a: number, b: number): number {
   return a + b;
